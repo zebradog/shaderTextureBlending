@@ -1,0 +1,10 @@
+From source code original posted here by Ruud Bijnen:
+
+http://www.ruudbijnen.nl/blog/2010/09/blending-textures-in-a-shader/#comments
+
+Compiled and test with Xcode, OSX 10.6, openFrameworks master branch. Original code::block project file included, untested. To compile you will need:
+
+ofxControlPanel (https://github.com/ofTheo/ofxControlPanel)
+ofxShader (http://code.google.com/p/kyle/source/browse/trunk/openframeworks/addons/ofxShader/)
+ofxDirList
+ofxXmlSettings

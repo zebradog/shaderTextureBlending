@@ -44,116 +44,12 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	C9C12F7613D9F91A00C7A4B7 /* ofxControlPanel.h */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.h;
-		name = ofxControlPanel.h;
-		path = /Users/matt/Documents/Projects/ZD/openFrameworks/apps/addonsExamples/shaderTextureBlending/src/ofxControlPanel/ofxControlPanel.h;
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {800, 2977}}";
-			sepNavSelRange = "{37, 0}";
-			sepNavVisRange = "{0, 1172}";
-		};
-	};
-	C9C12FB813D9FA3400C7A4B7 /* ofTrueTypeFont.h */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.c.h;
-		name = ofTrueTypeFont.h;
-		path = ../../../libs/openFrameworks/graphics/ofTrueTypeFont.h;
-		sourceTree = "<group>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1490, 1495}}";
-			sepNavSelRange = "{1708, 0}";
-			sepNavVisRange = "{394, 1801}";
-			sepNavWindowFrame = "{{15, 324}, {1549, 1089}}";
-		};
-	};
-	C9C12FB913D9FA3400C7A4B7 /* XCBuildMessageTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "'bool ofTrueTypeFont::bLoadedOk' is protected";
-		fRef = C9C12FB813D9FA3400C7A4B7 /* ofTrueTypeFont.h */;
-		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 74;
-		rType = 1;
-	};
-	C9C12FBC13D9FA5E00C7A4B7 /* XCBuildMessageTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "OfxXmlSettings.h: No such file or directory";
-		fRef = C9C12F7613D9F91A00C7A4B7 /* ofxControlPanel.h */;
-		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 3;
-		rType = 1;
-	};
-	C9C12FBD13D9FA5E00C7A4B7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C9C12F7613D9F91A00C7A4B7 /* ofxControlPanel.h */;
-		name = "ofxControlPanel.h: 4";
-		rLen = 0;
-		rLoc = 37;
-		rType = 0;
-		vrLen = 1203;
-		vrLoc = 0;
-	};
-	C9C12FC013D9FA5E00C7A4B7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C9C12FB813D9FA3400C7A4B7 /* ofTrueTypeFont.h */;
-		name = "ofTrueTypeFont.h: 72";
-		rLen = 0;
-		rLoc = 1708;
-		rType = 0;
-		vrLen = 1801;
-		vrLoc = 394;
-	};
 	C9C12FF713D9FC1500C7A4B7 /* guiBaseObject.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {705, 2860}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 1290}";
 		};
-	};
-	C9C1306813D9FCB100C7A4B7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C9C12FF713D9FC1500C7A4B7 /* guiBaseObject.h */;
-		name = "guiBaseObject.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1290;
-		vrLoc = 0;
-	};
-	C9C1306913D9FCB100C7A4B7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C9C12FF713D9FC1500C7A4B7 /* guiBaseObject.h */;
-		name = "guiBaseObject.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1290;
-		vrLoc = 0;
-	};
-	C9C1306A13D9FCB100C7A4B7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C9C12FB813D9FA3400C7A4B7 /* ofTrueTypeFont.h */;
-		name = "ofTrueTypeFont.h: 72";
-		rLen = 0;
-		rLoc = 1708;
-		rType = 0;
-		vrLen = 1801;
-		vrLoc = 394;
-	};
-	C9C1307413D9FCD700C7A4B7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = C9C12FF713D9FC1500C7A4B7 /* guiBaseObject.h */;
-		name = "guiBaseObject.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1290;
-		vrLoc = 0;
 	};
 	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
 		activeBuildConfigurationName = Release;
@@ -211,18 +107,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 333051934;
-			PBXWorkspaceStateSaveDate = 333051934;
-		};
-		perUserProjectItems = {
-			C9C12FB913D9FA3400C7A4B7 /* XCBuildMessageTextBookmark */ = C9C12FB913D9FA3400C7A4B7 /* XCBuildMessageTextBookmark */;
-			C9C12FBC13D9FA5E00C7A4B7 /* XCBuildMessageTextBookmark */ = C9C12FBC13D9FA5E00C7A4B7 /* XCBuildMessageTextBookmark */;
-			C9C12FBD13D9FA5E00C7A4B7 /* PBXTextBookmark */ = C9C12FBD13D9FA5E00C7A4B7 /* PBXTextBookmark */;
-			C9C12FC013D9FA5E00C7A4B7 /* PBXTextBookmark */ = C9C12FC013D9FA5E00C7A4B7 /* PBXTextBookmark */;
-			C9C1306813D9FCB100C7A4B7 /* PBXTextBookmark */ = C9C1306813D9FCB100C7A4B7 /* PBXTextBookmark */;
-			C9C1306913D9FCB100C7A4B7 /* PBXTextBookmark */ = C9C1306913D9FCB100C7A4B7 /* PBXTextBookmark */;
-			C9C1306A13D9FCB100C7A4B7 /* PBXTextBookmark */ = C9C1306A13D9FCB100C7A4B7 /* PBXTextBookmark */;
-			C9C1307413D9FCD700C7A4B7 /* PBXTextBookmark */ = C9C1307413D9FCD700C7A4B7 /* PBXTextBookmark */;
+			PBXPerProjectTemplateStateSaveDate = 333054192;
+			PBXWorkspaceStateSaveDate = 333054192;
 		};
 		sourceControlManager = C9C12F4213D9F82100C7A4B7 /* Source Control */;
 		userBuildSettings = {
